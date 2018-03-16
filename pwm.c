@@ -1,6 +1,5 @@
-/** Program to generate a simple PWM signal using the BBB PRUSS
-*   Output is P9_27 and input is P9_28, using PRU EGPIOs
-*   by Derek Molloy, for the book Exploring BeagleBone
+/** this been gitted
+*   Holly Shit
 */
 #include <stdio.h>
 #include <stdlib.h>
